@@ -1,2 +1,2 @@
 # Dice_Roller
-Must Have App
+Multiple dice Roller there are 2 dice
